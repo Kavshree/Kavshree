@@ -1,6 +1,3 @@
-# 👋 Hi, I'm [Your Name]
-
-Frontend Engineer with 10+ years of experience building fast, scalable, and accessible web applications.
 # 👋 Hi, I'm Kavya
 
 I specialize in **Angular**, **React**, and **Node.js**, with deep experience in:
