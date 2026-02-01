@@ -35,4 +35,4 @@ Nx / Lerna, Azure, Docker, GitHub Actions
 
 ## 🚀 Projects
 
-> Selected projects coming soon.
+> [Cosmos Explorer](https://nasa-apod-6mf.pages.dev)
