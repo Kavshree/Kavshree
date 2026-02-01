@@ -35,4 +35,4 @@ Nx / Lerna, Azure, Docker, GitHub Actions
 
 ## 🚀 Projects
 
-> [Cosmos Explorer](https://nasa-apod-6mf.pages.dev)
+> [Cosmos Explorer](https://nasa-apod-6mf.pages.dev){:target="_blank"}
